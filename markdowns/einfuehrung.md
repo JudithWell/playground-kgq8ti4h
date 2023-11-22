@@ -3,10 +3,10 @@
 Einzelne Werte können wir schon in Variablen speichern, aber können wir auch mehrere Informationen, zum Beispiel eine Einkaufsliste, in Python speichern?
 Annabel möchte einen Kuchen backen und hat folgende Einkäufe auf ihrer Liste stehen:
 
-- Mehl
-- Zucker
-- Butter
-- Eier
+- 400g Mehl
+- 250g Zucker
+- 250g Butter
+- 4 Eier
 
 In Python könnte diese Liste wie folgt angelegt werden. Annabel hat gleich noch eine zweite Liste ergänzt in der sie die Mengen für das Rezept aufgeschrieben hat.
 
