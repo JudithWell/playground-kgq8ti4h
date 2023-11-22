@@ -14,18 +14,18 @@ Im Beispiel unten sind die drei leeren Listen vorgegeben: `titel_liste`, `autor_
 
 4. Implementiere eine Funktion `buch_liste_ausgeben()`, die alle Bücher in der Liste buecher mit ihren Informationen ausgibt.
 
-::: Tipp zum Liste ausgeben:
-Hierfür kannst du eine for-Wiederholung verwenden. 
+    ::: Tipp zum Liste ausgeben:
+    Hierfür kannst du eine for-Wiederholung verwenden. 
 
-Die folgenden Anweisungen führen `tueIrgendwas()` für jedes element der liste aus.
+    Die folgenden Anweisungen führen `tueIrgendwas()` für jedes element der liste aus.
 
-```python
-for element in liste:
-    tueIrgendwas(element)
-```
+    ```python
+    for element in liste:
+        tueIrgendwas(element)
+    ```
 
-Alternativ kannst du auch recherchieren, wie du die Länge einer Liste bestimmen kannst.
-:::
+    Alternativ kannst du auch recherchieren, wie du die Länge einer Liste bestimmen kannst.
+    :::
 
 5. Füge weitere Testdaten hinzu und teste alle Funktionen, um sicherzustellen, dass sie wie erwartet funktionieren.
 
