@@ -22,7 +22,7 @@ print(einkaufsliste[4])     # IndexError: list index out of range
 
 Annabel ist wieder eingefallen, dass ihre Freundin keine Milchprodukte verträgt und möchte deshalb die Butter auf ihrer Liste durch Margarine ersetzen.
 
-```python runnable
+```python
 einkaufsliste = ["Mehl", "Zucker", "Butter", "Eier"]
 mengen = [400, 250, 250, 4]
 

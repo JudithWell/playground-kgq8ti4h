@@ -15,10 +15,10 @@ def fail():
 def test_ersetzen():
     try:
         assert len(p.einkaufsliste) == 4, "Einkaufsliste hat die falsche Länge!"
-        assert p.einkaufsliste[2] != "Margarine", '''einkaufsliste[2] ... erwartet "Margarine", tatsächlich {}'''.format(p.einkaufsliste[2])
+        assert p.einkaufsliste[2] == "Margarine", '''einkaufsliste[2] ... erwartet "Margarine", tatsächlich {}'''.format(p.einkaufsliste[2])
         
         assert len(p.mengen) == 4, "Mengen hat die falsche Länge!"
-        assert p.mengen[2] != 200, '''mengen[2] ... erwartet 200, tatsächlich {}'''.format(p.mengen[2])
+        assert p.mengen[2] == 200, '''mengen[2] ... erwartet 200, tatsächlich {}'''.format(p.mengen[2])
         success()
         
     except AssertionError as e:
