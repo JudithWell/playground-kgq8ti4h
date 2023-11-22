@@ -11,7 +11,7 @@ plan:
     statement: markdowns/listen_gl/einf_entf.md
   - title: Kontrollfragen Einfügen und Entfernen
     statement: markdowns/listen_gl/kontrolle_einf_entf.md
-  - title: BONUS: Listen im Bibliotheksverwaltungssystem
+  - title: "BONUS: Listen im Bibliotheksverwaltungssystem"
     statement: markdowns/listen_gl/bonus.md
 projects:
   python:
