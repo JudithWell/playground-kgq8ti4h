@@ -1,7 +1,9 @@
-title: Python Project
+title: Listen in Python
 plan:
 - title: Einführung
   statement: markdowns/einfuehrung.md
+- title: Indizes und Ersetzen
+  statement: markdowns/indizes_ersetzen.md
 projects:
   python:
     root: /python-project
