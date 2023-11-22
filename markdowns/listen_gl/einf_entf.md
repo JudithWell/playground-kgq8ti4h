@@ -17,7 +17,7 @@ Recherchiere im Internet wie die beiden eingebauten Funktionen `insert()` und `a
 
 Füge im Code-Beispiel das Backpulver nach dem Mehl in die Einkaufsliste ein und ergänze die Menge 1.
 
-@[Ergänze das Backpulver!]({"stubs": ["ersetzen.py"], "command": "python3 test_ersetzen.py"})
+@[Ergänze das Backpulver!]({"stubs": ["einfuegen.py"], "command": "python3 test_einfuegen.py"})
 
 # Elemente entfernen
 

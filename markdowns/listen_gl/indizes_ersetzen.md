@@ -2,7 +2,7 @@
 
 Um auf einzelne Elemente aus der Liste zuzugreifen, können wir eine laufende Nummer nutzen. Diese Nummer nennen wir **Index** eines Elements. (Plural: mehrere Indizes)
 
-Die Elemente sind in der Reihenfolge, in der sie in den eckigen Klammern stehen **von 0 an** durchnummeriert. Der Zugriff auf einen Eintrag ist mit dem Index in eckigen Klammern hinter dem Listennamen möglich.
+Die Elemente sind in der Reihenfolge, in der sie in den eckigen Klammern stehen, **von 0 an** durchnummeriert. Der Zugriff auf einen Eintrag ist mit dem Index in eckigen Klammern hinter dem Listennamen möglich.
 
 ```python
 einkaufsliste = ["Mehl", "Zucker", "Butter", "Eier"]
@@ -23,6 +23,7 @@ print(einkaufsliste[4])     # IndexError: list index out of range
 - [ ] print(mengen(3))
 - [ ] print(Eier)
 - [ ] print(einkaufsliste[Eier])
+- [ ] print(mengen[4])
 - [x] print(mengen[3])
 
 ?[Warum tritt in der letzten Zeile ein Fehler auf?](single)

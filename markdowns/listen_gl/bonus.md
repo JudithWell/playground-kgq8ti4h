@@ -29,4 +29,4 @@ Alternativ kannst du auch recherchieren, wie du die Länge einer Liste bestimmen
 
 5. Füge weitere Testdaten hinzu und teste alle Funktionen, um sicherzustellen, dass sie wie erwartet funktionieren.
 
-@[Implementiere ein Bibliotheksverwaltungssystem!]({"stubs": ["bibliotheksverwaltung.py"], "command": "python3 biblitotheksverwaltung.py"})
+@[Implementiere ein Bibliotheksverwaltungssystem!]({"stubs": ["bibliotheksverwaltung.py"], "command": "python3 bibliotheksverwaltung.py"})
