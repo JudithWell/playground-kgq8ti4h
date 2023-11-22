@@ -1,8 +1,6 @@
 import ersetzen as p
 import builtins
 
-print(p.einkaufsliste)
-
 def send_msg(channel, msg):
     print("TECHIO> message --channel \"{}\" \"{}\"".format(channel, msg))
 
@@ -20,6 +18,7 @@ def test_ersetzen():
         assert len(p.mengen) == 4, "Mengen hat die falsche Länge!"
         assert p.mengen[2] == 200, '''mengen[2] ... erwartet 200, tatsächlich {}'''.format(p.mengen[2])
         success()
+        send_msg("Super gemacht!", "Du hast die Aufgabe gelöst!")
         
     except AssertionError as e:
         fail()

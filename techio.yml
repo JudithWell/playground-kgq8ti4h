@@ -1,9 +1,18 @@
 title: Listen in Python
 plan:
-- title: Mehrere Informationen speichern
-  statement: markdowns/einfuehrung.md
-- title: Lesen und Ersetzen
-  statement: markdowns/indizes_ersetzen.md
+- title: Listen Grundlagen
+  description: Einführung von Listen in Python
+  plan:
+  - title: Mehrere Informationen speichern
+    statement: markdowns/listen_gl/einfuehrung.md
+  - title: Lesen und Ersetzen
+    statement: markdowns/listen_gl/indizes_ersetzen.md
+  - title: Einfügen und Entfernen
+    statement: markdowns/listen_gl/einf_entf.md
+  - title: Kontrollfragen Einfügen und Entfernen
+    statement: markdowns/listen_gl/kontrolle_einf_entf.md
+  - title: BONUS: Listen im Bibliotheksverwaltungssystem
+    statement: markdowns/listen_gl/bonus.md
 projects:
   python:
     root: /python-project
