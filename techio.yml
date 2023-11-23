@@ -28,3 +28,10 @@ projects:
     runner:
       name: python
       version: '3'
+  python-magiclist:
+    root: /python-magiclist-project
+    buildCommand: pip install nicegui
+    runner: 
+      name: python
+      version: '3'
+    
