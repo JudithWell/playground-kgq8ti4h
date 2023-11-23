@@ -30,7 +30,7 @@ projects:
       version: '3'
   python-magiclist:
     root: /python-magiclist-project
-    buildCommand: python3 -m pip install nicegui
+    buildCommand: python3 -m pip install nicegui --progress-bar off
     runner: 
       name: python
       version: '3.11'
