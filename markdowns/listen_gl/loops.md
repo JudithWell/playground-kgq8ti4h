@@ -51,7 +51,7 @@ Nun zurück zu Annabels Einkaufsliste: Hilf ihr die Methode `listeAusgeben()` zu
 
 Nutze dabei für die Anzahl der Wiederholungen die Funktion `len`, der Ausdruck `len(liste)` liefert die Anzahl der Elemente in liste zurück. Dein Code sollte auch funktionieren, wenn die Liste mehr oder weniger als fünf Elemente enthält!
 
-@[Ausgeben der Einkaufsliste]({"stubs": ["listeiterieren.py"], "command": "python3 test_listeiterieren.py"})
+@[Ausgeben der Einkaufsliste]({"stubs": ["listeiterieren.py"], "command": "python3 test_listeiterieren.py", "project": "python"})
 
 ## Iterieren von Listen direkt über die Elemente
 
@@ -93,4 +93,4 @@ print(sum) # sum ist jetzt gleich 2!
 ```
 :::
 
-@[Summieren von Preisen]({"stubs": ["listeaddieren.py"], "command": "python3 test_listeaddieren.py"})
+@[Summieren von Preisen]({"stubs": ["listeaddieren.py"], "command": "python3 test_listeaddieren.py", "project": "python"})

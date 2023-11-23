@@ -29,4 +29,4 @@ for element in liste:
 Alternativ kannst du auch recherchieren, wie du die Länge einer Liste bestimmen kannst.
 :::
 
-@[Implementiere ein Bibliotheksverwaltungssystem!]({"stubs": ["bibliotheksverwaltung.py"], "command": "python3 bibliotheksverwaltung.py"})
+@[Implementiere ein Bibliotheksverwaltungssystem!]({"stubs": ["bibliotheksverwaltung.py"], "command": "python3 bibliotheksverwaltung.py", "project": "python"})

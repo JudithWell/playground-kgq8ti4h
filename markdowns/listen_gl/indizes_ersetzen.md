@@ -44,7 +44,7 @@ einkaufsliste[2] = "Margarine"
 
 Von der Margarine braucht Annabel jetzt aber nur 200 g, hilf ihr dabei, den Eintrag in der Liste `mengen` entsprechend zu verändern!
 
-@[Reduziere die Menge der Margarine auf 200 g!]({"stubs": ["ersetzen.py"], "command": "python3 test_ersetzen.py"})
+@[Reduziere die Menge der Margarine auf 200 g!]({"stubs": ["ersetzen.py"], "command": "python3 test_ersetzen.py", "project": "python"})
 
 ?[Um das Rezept vegan zu backen, könnte Annabel jeweils 2 Eier durch eine Banane ersetzen. Welche Codezeilen müsste sie ausführen?](multiple)
 - [ ] "Eier" = "Banane"

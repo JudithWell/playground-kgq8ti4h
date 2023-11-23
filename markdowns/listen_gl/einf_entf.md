@@ -17,7 +17,7 @@ Recherchiere im Internet wie die beiden eingebauten Funktionen `insert()` und `a
 
 Füge im Code-Beispiel das Backpulver nach dem Mehl in die Einkaufsliste ein und ergänze die Menge 1.
 
-@[Ergänze das Backpulver!]({"stubs": ["einfuegen.py"], "command": "python3 test_einfuegen.py"})
+@[Ergänze das Backpulver!]({"stubs": ["einfuegen.py"], "command": "python3 test_einfuegen.py", "project": "python"})
 
 # Elemente entfernen
 
@@ -60,5 +60,5 @@ Verwendung: `idx = liste.index("abc")` speichert den Index des Eintrags `"abc"` 
 
 :::
 
-@[Entfernen von Produkten]({"stubs": ["entfernen.py"], "command": "python3 test_entfernen.py"})
+@[Entfernen von Produkten]({"stubs": ["entfernen.py"], "command": "python3 test_entfernen.py", "project": "python"})
 
