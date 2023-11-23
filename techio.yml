@@ -17,6 +17,11 @@ plan:
     statement: markdowns/listen_gl/kontrolle_loops.md
   - title: "BONUS: Listen im Bibliotheksverwaltungssystem"
     statement: markdowns/listen_gl/bonus.md
+- title: Algorithmen mit Listen
+  description: Algorithmen mit Listen
+  plan:
+  - title: Test
+    statement: markdowns/listen_visu/listen_visu.md
 projects:
   python:
     root: /python-project
