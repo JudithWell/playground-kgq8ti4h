@@ -30,5 +30,8 @@ projects:
       version: '3'
   python-magiclist:
     root: /python-magiclist-project
-    buildCommand: pip install --upgrade pip && python3 -m pip install nicegui
+    buildCommand: sudo apt update &&
+    sudo apt-get install python3.11 &&
+    pip install --upgrade pip && 
+    python3.11 -m pip install nicegui
     runner: techio/python3-unittest-runner:1.1.0-python-3.6
