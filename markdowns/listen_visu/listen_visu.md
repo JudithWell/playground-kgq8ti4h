@@ -1,6 +1,4 @@
 # Dies ist eine Test zum visualisieren von Listen!
 
-```python runnable
 
-
-```
+@[test]({"stubs": ["test.py"], "command": "python3 test.py"})
