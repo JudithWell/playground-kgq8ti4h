@@ -17,20 +17,20 @@ plan:
     statement: markdowns/listen_gl/kontrolle_loops.md
   - title: "BONUS: Listen im Bibliotheksverwaltungssystem"
     statement: markdowns/listen_gl/bonus.md
-- title: Algorithmen mit Listen
-  description: Algorithmen mit Listen
-  plan:
-  - title: Test
-    statement: markdowns/listen_visu/listen_visu.md
+#- title: Algorithmen mit Listen
+#  description: Algorithmen mit Listen
+#  plan:
+#  - title: Test
+#    statement: markdowns/listen_visu/listen_visu.md
 projects:
   python:
     root: /python-project
     runner:
       name: python
       version: '3'
-  python-magiclist:
-    root: /python-magiclist-project
-    buildCommand: python3 -m pip install nicegui --progress-bar off
-    runner: 
-      name: python
-      version: '3.11'
+#  python-magiclist:
+#    root: /python-magiclist-project
+#    buildCommand: python3 -m pip install nicegui --progress-bar off
+#    runner: 
+#      name: python
+#      version: '3.11'
